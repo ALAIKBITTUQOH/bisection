@@ -1,3 +1,4 @@
+SOAL :
 1. Persamaan Non Linier
 3+x^3-x=4
 
@@ -11,6 +12,7 @@ Intruksi :
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+JAWABAN :
 Untuk mencari solusi dari persamaan non-linier dan linier, kita dapat menggunakan metode iteratif seperti metode Newton-Raphson atau metode iterasi sederhana.
 Berikut adalah contoh program Python menggunakan metode iterasi sederhana:
 
