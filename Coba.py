@@ -1,6 +1,7 @@
-Untuk mencari solusi dari persamaan non-linier dan linier, kita dapat menggunakan metode iteratif seperti metode Newton-Raphson atau metode iterasi sederhana. Berikut adalah contoh program Python menggunakan metode iterasi sederhana:
+Untuk mencari solusi dari persamaan non-linier dan linier, kita dapat menggunakan metode iteratif seperti metode Newton-Raphson atau metode iterasi sederhana.
+Berikut adalah contoh program Python menggunakan metode iterasi sederhana:
 
---------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Metode Iterasi Sederhana
 def iterasi_sederhana(fungsi, x_awal, toleransi, maks_iterasi):
@@ -46,7 +47,7 @@ solusi_linier = iterasi_sederhana(fungsi_linier, x_awal_linier, toleransi, maks_
 if solusi_linier is not None:
     print(f"Solusi persamaan linier: x = {solusi_linier}")
 
---------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 hasil output :
 Iterasi 1: x = 1.0
