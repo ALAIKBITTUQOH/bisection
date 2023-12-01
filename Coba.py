@@ -17,7 +17,7 @@ Untuk mencari solusi dari persamaan non-linier dan linier, kita dapat menggunaka
 Berikut adalah contoh program Python menggunakan metode iterasi sederhana:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+````
 # Metode Iterasi Sederhana
 def iterasi_sederhana(fungsi, x_awal, toleransi, maks_iterasi):
     x = x_awal
@@ -90,4 +90,4 @@ Iterasi 20: x = 3.9999961853027344
 Iterasi 21: x = 3.999998092651367
 Iterasi 22: x = 3.9999990463256836
 Solusi persamaan linier: x = 3.9999990463256836
-    
+ ````   
